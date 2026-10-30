@@ -1,0 +1,21 @@
+﻿Código,Edad,Sexo,Fecha de consulta,Motivo,Temperatura (°C),Frecuencia cardíaca (lpm),Saturación de oxígeno (%),Diagnóstico simulado,Estado de atención
+P001,25,F,2026-10-20,Dolor de cabeza,36.8,78,98,Cefalea,Finalizada
+P002,42,M,2026-10-21,Tos,37.5,85,97,Resfriado común,En atención
+P003,31,F,2026-10-22,Control general,36.5,72,99,Control preventivo,Finalizada
+P004,67,M,2026-10-22,Mareo,37,92,95,Vértigo,Pendiente
+P005,19,F,2026-10-23,Dolor abdominal,38.1,101,98,Gastroenteritis,En atención
+P006,54,M,2026-10-23,Revisión médica,36.7,76,97,Control preventivo,Finalizada
+P007,38,F,2026-10-24,Fiebre,38.5,105,96,Síndrome febril,En atención
+P008,45,M,2026-10-24,Dolor muscular,36.9,81,99,Mialgia,Finalizada
+P009,72,F,2026-10-25,Dificultad respiratoria,37.8,110,91,Afección respiratoria,En atención
+P010,29,M,2026-10-25,Control general,36.6,70,98,Control preventivo,Finalizada
+P011,33,F,2026-10-26,Náuseas,37.2,88,97,Trastorno digestivo,Pendiente
+P012,61,M,2026-10-26,Dolor de pecho,37,98,94,Dolor torácico en estudio,En atención
+P013,40,F,2026-10-27,Dolor de garganta,37.9,89,98,Faringitis,Finalizada
+P014,23,M,2026-10-27,Lesión deportiva,36.4,74,99,Contusión,Finalizada
+P015,58,F,2026-10-28,Fatiga,36.7,83,97,Fatiga en estudio,Pendiente
+P016,35,M,2026-10-28,Tos persistente,37.6,91,,Afección respiratoria,En atención
+P017,47,F,2026-10-28,Dolor lumbar,36.8,79,98,Lumbalgia,Finalizada
+P018,64,M,2026-10-29,Dolor articular,37.1,86,96,Artralgia,En atención
+P019,27,F,2026-10-29,Control preventivo,36.5,73,99,Control preventivo,Finalizada
+P020,50,M,2026-10-29,Dolor de cabeza,37.3,90,97,Cefalea,Pendiente
